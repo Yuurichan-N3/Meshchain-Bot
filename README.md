@@ -1,6 +1,6 @@
 ## 📌 Meshchain Automation Bot
 
-## 🔥 Skrip ini mengotomatisasi proses pendaftaran akun, verifikasi email, klaim hadiah, dan pengelolaan node di platform Meshchain. Dengan fitur multi-akun, captcha solver, dan kontrol mining otomatis, bot ini mempermudah kamu untuk mengelola dan memaksimalkan pendapatan dari Meshchain tanpa repot!
+## Skrip ini mengotomatisasi proses pendaftaran akun, verifikasi email, klaim hadiah, dan pengelolaan node di platform Meshchain. Dengan fitur multi-akun, captcha solver, dan kontrol mining otomatis, bot ini mempermudah kamu untuk mengelola dan memaksimalkan pendapatan dari Meshchain tanpa repot!
 
 
 ---
@@ -39,7 +39,7 @@ accounts.json: Tempat menyimpan daftar akun dan ID node.
 
 
 ```
-git clone 
+git clone https://github.com/Yuurichan-N3/Meshchain-Bot.git
 cd Meshchain-Bot
 ```
 
@@ -129,3 +129,16 @@ Rate Limit API: Periksa batasan API supaya akun tidak diblokir akibat terlalu ba
 
 
 ---
+
+
+## 📜 Lisensi  
+
+Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.  
+
+Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://t.me/sentineldiscus).
+
+
+---
+
+## 💡 Disclaimer
+Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
